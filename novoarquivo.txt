@@ -1,3 +1,5 @@
 Muito bem
 nOVO ARQUIVO ALTERADO
 Alteração feita antes de dar pull
+Alterado linha 1 no remoto
+nOVO ARQUIVO ALTERADO
